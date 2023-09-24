@@ -3,7 +3,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { useQuery } from '@apollo/client';
 import { UPDATE_PRODUCTS } from '../../utils/actions';
 import { idbPromise } from '../../utils/helpers';
-import { QUERY_PRODUCTS } from '../../utils/queries';
+import { QUERY_PRODUCTS } from '../../utils/queries.js';
 import spinner from '../../assets/spinner.gif';
 import ProductItem from '../ProductItem';
 

@@ -5,7 +5,7 @@ import { loadStripe } from '@stripe/stripe-js';
 import { TOGGLE_CART, ADD_MULTIPLE_TO_CART } from '../../utils/actions';
 import Auth from '../../utils/auth';
 import { idbPromise } from '../../utils/helpers';
-import { QUERY_CHECKOUT } from '../../utils/queries';
+import { QUERY_CHECKOUT } from '../../utils/queries.js';
 import CartItem from '../CartItem';
 import './style.css';
 
