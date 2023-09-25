@@ -26,6 +26,11 @@ THEN I find that the app uses Redux instead of the Context API
 
 ## Links
 ```
+https://github.com/Mahmud-deep/Redux-Store 
+
+https://mahmud-deep.github.io/Redux-Store/
+
+https://drive.google.com/file/d/1aXJkvmz9IE8WrgOUkCKJhLeYc2Ycrsqa/view 
 
 ## Review
 
